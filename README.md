@@ -56,7 +56,8 @@ pip install numpy pandas plotly dash scikit-learn pyngrok matplotlib seaborn
 4. **Interactive Crop Recommendation Dashboard**:
    - Built using `Dash`, the dashboard provides visual insights into crop distribution and nutrient data.
    - The dashboard is deployed via `ngrok`, making it accessible externally.
-<iframe src="https://drive.google.com/file/d/16hBNEfxSiheZli3ijolwm1t7tddesW0k/view?usp=sharing" width="640" height="480"></iframe>
+     
+[Watch the dashboard video here](https://drive.google.com/file/d/16hBNEfxSiheZli3ijolwm1t7tddesW0k/view?usp=sharing)
 
 
 ### Running the Dashboard
